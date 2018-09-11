@@ -4,6 +4,7 @@ import  styles from './Switch.css';
 const CREDITCARD = 'Creditcard';
 const BTC = 'Bitcoin';
 
+
 const Choice = function (props) {
   const cssClasses = [];
 
